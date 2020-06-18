@@ -1,5 +1,9 @@
 # Klasifikacija glazbe po žanru
 
+Modeli su podijeljeni u dvije bilježnice:
+* `klasicni_modeli.ipynb`: klasični modeli strojnog učenja
+* `cnn_modeli.ipynb`: konvolucijske neuronske mreže
+
 Bilježnice je najlakše pokrenuti na Kaggle-u, pritom koristeći unaprijed generirane datasetove:
 * [FMA_small](https://www.kaggle.com/aaronyim/fma-small)
 * [handcrafted](https://www.kaggle.com/dataset/206d79191cb67e3d506989a8d420f83172028279e0546d789829ed041eb16c7c)
