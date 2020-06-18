@@ -19,5 +19,5 @@ Da biste samostalno generirali dataset, potrebno je:
     source env/bin/activate
     pip install -r requirements.txt
     ```
-3. Pokrenuti `generate.py`
-4. Pokrenuti `generate_handcrafted.py`
+3. Pokrenuti `python generate.py`
+4. Pokrenuti `python generate_handcrafted.py`
