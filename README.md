@@ -2,8 +2,8 @@
 
 Bilježnice je najlakše pokrenuti na Kaggle-u, pritom koristeći unaprijed generirane datasetove:
 * [FMA_small](https://www.kaggle.com/aaronyim/fma-small)
-* [handcrafted](www.kaggle.com/dataset/206d79191cb67e3d506989a8d420f83172028279e0546d789829ed041eb16c7c)
-* [fma-small-s-db](www.kaggle.com/dataset/8885d97c06ee6c451ac372fd215c2d004010bdc32770886d5c33a46e49717a64)
+* [handcrafted](https://www.kaggle.com/dataset/206d79191cb67e3d506989a8d420f83172028279e0546d789829ed041eb16c7c)
+* [fma-small-s-db](https://www.kaggle.com/dataset/8885d97c06ee6c451ac372fd215c2d004010bdc32770886d5c33a46e49717a64)
 
 Da biste samostalno generirali dataset, potrebno je:
 
